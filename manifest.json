@@ -1,8 +1,8 @@
 {
   "filename": "StopTime.dll",
-  "author": "misternebula",
+  "author": "_nebula",
   "name": "StopTime",
-  "uniqueName": "misternebula.StopTime",
-  "version": "1.0",
-  "owmlVersion": "0.3.44"
+  "uniqueName": "_nebula.StopTime",
+  "version": "1.0.0",
+  "owmlVersion": "2.5.2"
 }

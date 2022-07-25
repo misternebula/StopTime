@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Harmony;
-
-namespace StopTime
+﻿namespace StopTime
 {
 	public static class Patches
 	{
